@@ -1,5 +1,8 @@
 # Reconhecendo máscaras
 
+### Direitos Autorais
+https://github.com/MariaEduardaDeAzevedo
+
 <p align="center">
     <img src="./assets/gif-mascara.gif" width=500/>
 <p/>
